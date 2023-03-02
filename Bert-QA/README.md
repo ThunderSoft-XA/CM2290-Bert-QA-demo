@@ -13,7 +13,7 @@ The project was built in x86 host with across complier tool and has been tested 
 
 Qualcomm® CM2290 SoC Open Kits
 
-![CM2290](././res/2290-DK-4-150x150.webp)
+![CM2290](../res/2290-DK-4-150x150.webp)
 
 ## Materials and Tools used for the project
 
