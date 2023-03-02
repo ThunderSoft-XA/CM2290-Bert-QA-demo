@@ -1,0 +1,2 @@
+Bert-QA/app/src/androidTest/assets/mobilebert.tflite filter=lfs diff=lfs merge=lfs -text
+doc/output.mp4 filter=lfs diff=lfs merge=lfs -text

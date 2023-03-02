@@ -1,0 +1,1 @@
+This video demonstrates the BERT Question and Answer project. Run the app on CM2290, enter the content of the article and the corresponding question, click Run, and after calling the model operation, you can see that the answer to the question is highlighted in the article.
