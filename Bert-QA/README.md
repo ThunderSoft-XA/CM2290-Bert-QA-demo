@@ -13,7 +13,7 @@ The project was built in x86 host with across complier tool and has been tested 
 
 Qualcomm® CM2290 SoC Open Kits
 
-![CM2290](./res/2290-DK-4-150x150.webp)
+![CM2290](././res/2290-DK-4-150x150.webp)
 
 ## Materials and Tools used for the project
 
@@ -25,13 +25,13 @@ Except for the Open Kits,The following hardware materials are also needed:
 
 using the usb line to develop on Qualcomm® CM2290 SoC Open Kits.
 
-![usb line](./res/usb.png )
+![usb line](././res/usb.png )
 
 * Charger
 
 Direct power supply for Qualcomm® CM2290 SoC Open Kits.
 
-![charger](./res/charger.jpg )
+![charger](././res/charger.jpg )
 
 
 ## Environment configuration
